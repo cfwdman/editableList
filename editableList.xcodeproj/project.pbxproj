@@ -11,6 +11,7 @@
 		176315CF27A8824600844C0A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 176315CE27A8824600844C0A /* ContentView.swift */; };
 		176315D127A8824800844C0A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 176315D027A8824800844C0A /* Assets.xcassets */; };
 		176315D427A8824800844C0A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 176315D327A8824800844C0A /* Preview Assets.xcassets */; };
+		176315DB27A88D8300844C0A /* editableListItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 176315DA27A88D8300844C0A /* editableListItemView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		176315CE27A8824600844C0A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		176315D027A8824800844C0A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		176315D327A8824800844C0A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		176315DA27A88D8300844C0A /* editableListItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = editableListItemView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				176315CC27A8824600844C0A /* editableListApp.swift */,
 				176315CE27A8824600844C0A /* ContentView.swift */,
+				176315DA27A88D8300844C0A /* editableListItemView.swift */,
 				176315D027A8824800844C0A /* Assets.xcassets */,
 				176315D227A8824800844C0A /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				176315DB27A88D8300844C0A /* editableListItemView.swift in Sources */,
 				176315CF27A8824600844C0A /* ContentView.swift in Sources */,
 				176315CD27A8824600844C0A /* editableListApp.swift in Sources */,
 			);
